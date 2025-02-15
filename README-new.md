@@ -2,7 +2,11 @@
 
 ## Hey there, I'm Rajan 👋
 
+<!-- ## About Me -->
+
 I'm a **software engineer, problem-solver, and perpetual learner** who loves turning complex challenges into elegant solutions. My journey in tech is fueled by curiosity and the thrill of building things that matter. I thrive in collaborative environments and enjoy contributing to open-source projects.
+
+<!-- - 🔭 **Current Focus**: Building scalable web applications and exploring the world of machine learning. -->
 
 - 🔭 **Current Adventure:** Architecting scalable web applications and tinkering with machine learning models to push boundaries.
 
@@ -16,7 +20,11 @@ I'm a **software engineer, problem-solver, and perpetual learner** who loves tur
 
 - ⚡ **Fun Fact**: I'm an avid chess player and enjoy solving complex puzzles in my free time.
 
+<!-- - ⚡ **Fun Byte:** Chess grandmaster in my dreams; bug hunter in reality. -->
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=ImperviousDeveloper&color=brightgreen)
+
+
 
 ## What Fuels My Creativity ⚙️
 
@@ -24,6 +32,7 @@ I'm a **software engineer, problem-solver, and perpetual learner** who loves tur
 |-----------|----------------|--------------------|
 | Java, SpringBoot, Hibernate, JPA, Python, Node.js, Angular, TypeScript | VS Code, Docker, Git, Postman | REST, Qiskit, OpenTelemetry |
 
+<!-- ## Projects -->
 ## 🛠️ Latest Creations
 
 ### [Project 1: Awesome Web App](https://github.com/ImperviousDeveloper/awesome-web-app)
@@ -43,6 +52,8 @@ An advanced machine learning model for predictive analysis using Python and Tens
 ![ImperviousDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImperviousDeveloper&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImperviousDeveloper&layout=compact&theme=tokyonight)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ImperviousDeveloper&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Languages and Tools
 
