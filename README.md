@@ -148,6 +148,11 @@ An advanced machine learning model for predictive analysis using Python and Tens
 
 ---
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ImperviousDeveloper&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+---
+
 > **"The best way to predict the future is to invent it."** – Alan Kay
 
 Feel free to fork this bio or hit me up for a collab! 🚀
