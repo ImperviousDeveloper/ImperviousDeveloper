@@ -1,12 +1,18 @@
 # Welcome to My Digital Playground! 🚀
 
-## Hey there, I'm Rajan 👋
+## 👋 Hey, I’m Rajan – aka iAmRajan 🧑‍💻
+
+### 
+
+#### **🚀 Developer | Problem Solver | Quantum Enthusiast**
 
 I'm a **software engineer, problem-solver, and perpetual learner** who loves turning complex challenges into elegant solutions. My journey in tech is fueled by curiosity and the thrill of building things that matter. I thrive in collaborative environments and enjoy contributing to open-source projects.
 
 - 🔭 **Current Adventure:** Architecting scalable web applications and tinkering with machine learning models to push boundaries.
 
-- 🌱 **Learning**: Currently diving deep into advanced algorithms and data structures.
+- 🌱 **Learning**: Currently diving deep into advanced algorithms of Quantum Computing and data structures, Advanced system design & microservices.
+
+- 🔥 **Passionate About**: Exploring the future of computing – from cloud to quantum.
 
 - 👯 **Looking to Collaborate**: Open to collaborating on innovative open-source projects and ambitious product ideas.
 
@@ -14,7 +20,9 @@ I'm a **software engineer, problem-solver, and perpetual learner** who loves tur
 
 - 📫 **Contact Me**: Reach out via [email](mailto:mr.sharmajeerajan@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/rajan-kumar-sharma-709a17229/).
 
-- ⚡ **Fun Fact**: I'm an avid chess player and enjoy solving complex puzzles in my free time.
+<!-- - ⚡ **Fun Fact**: I'm an avid chess player and enjoy solving complex puzzles in my free time. -->
+
+- ⚡ **Fun Fact**: I sometimes think in Qubits while debugging Java code. 🧑‍💻⚛️
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ImperviousDeveloper&color=brightgreen)
 
@@ -91,7 +99,9 @@ An advanced machine learning model for predictive analysis using Python and Tens
 
 > **"The best way to predict the future is to invent it."** – Alan Kay
 
-Thank you for dropping by! 🚀
+<!-- Thank you for dropping by! 🚀 -->
+
+Feel free to fork this bio or hit me up for a collab! 🚀
 
 <!-- ## Get in Touch
 
