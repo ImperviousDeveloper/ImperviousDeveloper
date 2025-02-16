@@ -30,7 +30,8 @@ I'm a **software engineer, problem-solver, and perpetual learner** who loves tur
 
 ### [Project 1: 🔗 URL Shortener App](https://github.com/ImperviousDeveloper/url-shortner-react)
 
-An efficient and modern URL Shortener application built with **React + Spring Boot**.
+<!-- An efficient and modern URL Shortener application built with **React + Spring Boot**. -->
+From long & clunky to short & snappy – a next-gen URL shortener built on **React & Spring Boot**.
 
 🔗 [Live Demo](https://imperviousdeveloper.github.io/url-shortner-react/)  
 
@@ -70,7 +71,7 @@ An advanced machine learning model for predictive analysis using Python and Tens
 ![Qiskit](https://img.shields.io/badge/-Qiskit-black?style=flat-square&logo=ibm)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-<!-- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) -->
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 
