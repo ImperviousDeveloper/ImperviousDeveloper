@@ -26,17 +26,32 @@ I'm a **software engineer, problem-solver, and perpetual learner** who loves tur
 
 ## 🛠️ Latest Creations
 
-### [Project 1: Awesome Web App](https://github.com/ImperviousDeveloper/awesome-web-app)
-A scalable and responsive web application built with React and Node.js.
+<!-- ## 🚀 Projects -->
 
-### [Project 2: Machine Learning Model](https://github.com/ImperviousDeveloper/machine-learning-model)
-An advanced machine learning model for predictive analysis using Python and TensorFlow.
+### [Project 1: 🔗 URL Shortener App](https://github.com/ImperviousDeveloper/url-shortner-react)
 
-### [🚀 Interactive Web Platform](https://github.com/ImperviousDeveloper/awesome-web-app)
-**Tech:** React, Node.js, PostgreSQL, GraphQL – Built to scale with real-time features.
+An efficient and modern URL Shortener application built with **React + Spring Boot**.
 
-### [🧠 Predictive Analytics Model](https://github.com/ImperviousDeveloper/machine-learning-model)
-**Tech:** Python, TensorFlow, Pandas – Harnessing data to drive smart decisions.
+🔗 [Live Demo](https://imperviousdeveloper.github.io/url-shortner-react/)  
+
+**Key Features:**
+
+1️⃣ Custom short URLs  
+2️⃣ URL click analytics  
+3️⃣ React + Tailwind CSS  
+4️⃣ Spring Boot backend
+
+<!-- ### [Project 1: Awesome Web App](https://github.com/ImperviousDeveloper/awesome-web-app)
+A scalable and responsive web application built with React and Node.js. -->
+
+<!-- ### [Project 2: Machine Learning Model](https://github.com/ImperviousDeveloper/machine-learning-model)
+An advanced machine learning model for predictive analysis using Python and TensorFlow. -->
+
+<!-- ### [🚀 Interactive Web Platform](https://github.com/ImperviousDeveloper/awesome-web-app)
+**Tech:** React, Node.js, PostgreSQL, GraphQL – Built to scale with real-time features. -->
+
+<!-- ### [🧠 Predictive Analytics Model](https://github.com/ImperviousDeveloper/machine-learning-model)
+**Tech:** Python, TensorFlow, Pandas – Harnessing data to drive smart decisions. -->
 
 ## 📊 Dev Stats & Progress
 
