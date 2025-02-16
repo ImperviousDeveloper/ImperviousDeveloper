@@ -93,21 +93,47 @@ An advanced machine learning model for predictive analysis using Python and Tens
 ## 🗰️ Let's Build the Future Together
 
 💬 **Have an idea?** Let's brainstorm and create something amazing.
-📫 **Ping me anytime:** [Email](mailto:mr.sharmajeerajan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/rajan-kumar-sharma-709a17229/)
+
+📫 **Ping me anytime:** 
+
+[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=anyQuery&color=red&logo=gmail&style=social)](mailto:mr.sharmajeerajan@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/ImperviousDeveloper?label=Follow&style=social)](https://github.com/ImperviousDeveloper)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/rajan-kumar-sharma-709a17229/)
+
+🧑‍💻 **Coding Platforms:**
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-success?style=flat&logo=hackerrank)](https://www.hackerrank.com/mr_sharmajeeraj1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode)](https://leetcode.com/SharmaRajan/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Profile-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/SharmaRajan)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-darkgreen?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/mrsharmajeerajan/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?style=flat&logo=codechef)](https://www.codechef.com/users/impervious_dev)
+
+📝 **Writing/Blogging Platforms:**
+
+[![Medium](https://img.shields.io/badge/Medium-Read-black?style=flat&logo=medium)](https://medium.com/@mr.sharmajeerajan)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Profile-black?style=flat&logo=dev.to)](https://dev.to/iamrajan)
+
+💻 **Open Source & Community Platforms:**
+
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-Profile-FE7A16?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/23333461/rajan-kumar-sharma)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Contributions-blue?style=flat&logo=github)](https://github.com/ImperviousDeveloper)
+
+🎵 **Fun / Creative Profiles:**
+
+<!-- [![Spotify](https://img.shields.io/badge/Spotify-Listen%20Now-1DB954?style=flat&logo=spotify)](https://open.spotify.com/user/your_spotify_username) -->
+[![Steam](https://img.shields.io/badge/Steam-Profile-000?style=flat&logo=steam)](https://steamcommunity.com/profiles/76561199663028234/home)
+<!-- [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=youtube)](https://www.youtube.com/channel/your_channel_id) -->
+
+✨ **Creative / Unique Badges:**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat&logo=webflow)](https://sharmarajan.github.io/portfolio-app/)
+<!-- [![Qiskit](https://img.shields.io/badge/Qiskit-Explorer-6929C4?style=flat&logo=ibm-quantum)](https://quantum-computing.ibm.com/users/iamrajansharma007@gmail.com) -->
+<!-- [![Qiskit](https://img.shields.io/badge/Qiskit-Explorer-6929C4?style=flat&logo=ibm-quantum)](https://quantum.ibm.com/jobs/cy537qecw2k0008jsa9g) -->
+[![Achievements](https://img.shields.io/badge/Achievements-Unlocked-yellow?style=flat&logo=star)](https://www.linkedin.com/in/rajan-kumar-sharma-709a17229/details/skills/)
 
 ---
 
 > **"The best way to predict the future is to invent it."** – Alan Kay
 
-<!-- Thank you for dropping by! 🚀 -->
-
 Feel free to fork this bio or hit me up for a collab! 🚀
 
-<!-- ## Get in Touch
-
-Feel free to reach out if you have any questions or if you just want to connect!
-
-- [LinkedIn](https://www.linkedin.com/in/rajan-kumar-sharma-709a17229/)
-- [Email](mailto:mr.sharmajeerajan@gmail.com)
-
-Thank you for visiting my profile! -->
