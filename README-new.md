@@ -96,3 +96,22 @@ Feel free to reach out if you have any questions or if you just want to connect!
 - [Email](mailto:mr.sharmajeerajan@gmail.com)
 
 Thank you for visiting my profile! -->
+
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=ImperviousDeveloper&theme=radical)
+
+![Metrics](https://metrics.lecoq.io/SharmaRajan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=full-year&languages.ignored=html,css&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FCalcutta)
+
+![Metrics](https://metrics.lecoq.io/SharmaRajan?template=classic&languages=1&isocalendar=1)
+
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=iAmRajan)
+
+[![iRajan's Isometric GitHub Calendar](https://github.com/SharmaRajan/SharmaRajan/blob/output/github-contribution-grid-snake.svg)](https://github.com/SharmaRajan)
+
+[![Spotify](https://novatorem-mu.vercel.app/api/spotify)](https://open.spotify.com/user/your_spotify_id)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ImperviousDeveloper&theme=react-dark)
+
+
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

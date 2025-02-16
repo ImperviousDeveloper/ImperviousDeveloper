@@ -31,7 +31,6 @@ I'm a **software engineer, problem-solver, and perpetual learner** who loves tur
 
 - ⚡ **Fun Fact**: I sometimes think in Qubits while debugging Java code. 🧑‍💻⚛️
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ImperviousDeveloper&color=brightgreen)
 
 ## What Fuels My Creativity ⚙️
 
@@ -71,9 +70,16 @@ An advanced machine learning model for predictive analysis using Python and Tens
 
 ## 📊 Dev Stats & Progress
 
-![ImperviousDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImperviousDeveloper&show_icons=true&theme=radical)
+![Visitor Count](https://komarev.com/ghpvc/?username=ImperviousDeveloper&color=brightgreen)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/ImperviousDeveloper/ImperviousDeveloper/actions/workflows/snake-eating-contributions.yml)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImperviousDeveloper&layout=compact&theme=tokyonight)
+[//]: # (![ImperviousDeveloper's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=ImperviousDeveloper&show_icons=true&theme=radical&#41;)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ImperviousDeveloper&theme=radical)
+
+
+[//]: # (![GitHub Activity Graph]&#40;https://github-readme-activity-graph.vercel.app/graph?username=ImperviousDeveloper&theme=react-dark&#41;)
 
 ## Languages and Tools
 
@@ -89,6 +95,8 @@ An advanced machine learning model for predictive analysis using Python and Tens
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImperviousDeveloper&layout=compact&theme=tokyonight)
 
 ## 🌍 Beyond Code
 
@@ -144,3 +152,4 @@ An advanced machine learning model for predictive analysis using Python and Tens
 
 Feel free to fork this bio or hit me up for a collab! 🚀
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
