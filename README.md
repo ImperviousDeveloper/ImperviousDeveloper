@@ -83,17 +83,23 @@ An advanced machine learning model for predictive analysis using Python and Tens
 
 <table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=ImperviousDeveloper&&rank_icon=github&show_icons=true&theme=radical" alt="LeetCode Stats" />
+    <td >
+      <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ImperviousDeveloper&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
     </td>
-<td>
-<h5>🔝 Top Contributed Repo</h5>
-<img src="https://github-contributor-stats.vercel.app/api?username=ImperviousDeveloper&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</td>
+    <td align="right">
+      <img src="https://github-readme-stats-salesp07.vercel.app/api?username=ImperviousDeveloper&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+[//]: # (      <img src="https://github-readme-stats.vercel.app/api?username=ImperviousDeveloper&&rank_icon=github&show_icons=true&theme=radical" alt="LeetCode Stats" />)
+
+ </td>
   </tr>
 <tr>
   <td>
-<img src="https://leetcard.jacoblin.cool/ImperviousDeveloper?font=Dancing_Script&theme=dark" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/ImperviousDeveloper?font=Dancing_Script&theme=dark&border_radius=10" alt="LeetCode Stats" />
+</td>
+<td>
+<h5>🔝 Top Contributed Repo</h5>
+<img src="https://github-contributor-stats.vercel.app/api?username=ImperviousDeveloper&limit=5&theme=react&combine_all_yearly_contributions=true&border_radius=10" alt="Top Contributed Repo" />
 </td>
 </tr>
 </table>
