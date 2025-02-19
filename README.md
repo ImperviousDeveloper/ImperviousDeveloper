@@ -76,7 +76,7 @@ An advanced machine learning model for predictive analysis using Python and Tens
 
 [//]: # (![ImperviousDeveloper's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=ImperviousDeveloper&show_icons=true&theme=radical&#41;)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ImperviousDeveloper&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=ImperviousDeveloper&theme=radical)
 
 
 [//]: # (![GitHub Activity Graph]&#40;https://github-readme-activity-graph.vercel.app/graph?username=ImperviousDeveloper&theme=react-dark&#41;)
