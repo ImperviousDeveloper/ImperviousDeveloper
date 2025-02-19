@@ -74,9 +74,28 @@ An advanced machine learning model for predictive analysis using Python and Tens
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/ImperviousDeveloper/ImperviousDeveloper/actions/workflows/snake-eating-contributions.yml)
 
-[//]: # (![ImperviousDeveloper's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=ImperviousDeveloper&show_icons=true&theme=radical&#41;)
+![ImperviousDeveloper's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImperviousDeveloper&show_icons=true&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ImperviousDeveloper&theme=radical)
+
+<table>
+  <tr>
+    <td >
+      <img src="https://streak-stats.demolab.com?user=ImperviousDeveloper&theme=radical" alt="GitHub Streak" />
+    </td>
+    <td align="right">
+      <img src="https://github-readme-stats.vercel.app/api?username=ImperviousDeveloper&&rank_icon=github&show_icons=true&theme=radical" alt="LeetCode Stats" />
+    </td>
+  </tr>
+<tr>
+  <td>
+<img src="https://leetcard.jacoblin.cool/ImperviousDeveloper?font=Dancing_Script&theme=dark" alt="LeetCode Stats" />
+</td>
+<td>
+<h5>🔝 Top Contributed Repo</h5>
+<img src="https://github-contributor-stats.vercel.app/api?username=ImperviousDeveloper&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</td>
+</tr>
+</table>
 
 
 [//]: # (![GitHub Activity Graph]&#40;https://github-readme-activity-graph.vercel.app/graph?username=ImperviousDeveloper&theme=react-dark&#41;)
@@ -148,8 +167,8 @@ An advanced machine learning model for predictive analysis using Python and Tens
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ImperviousDeveloper&limit=5&theme=flat&combine_all_yearly_contributions=true)
+[//]: # (### 🔝 Top Contributed Repo)
+[//]: # (![]&#40;https://github-contributor-stats.vercel.app/api?username=ImperviousDeveloper&limit=5&theme=flat&combine_all_yearly_contributions=true&#41;)
 
 ---
 
