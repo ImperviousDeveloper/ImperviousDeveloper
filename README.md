@@ -1,6 +1,10 @@
-# Welcome to My Digital Playground! 🚀
+[//]: # (# Welcome to My Digital Playground! 🚀)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=rebeccapurple&width=720&lines=Hi%2C+I'm+Rajan.+I+am+currently+working+as+Back-End+Dev)](https://git.io/typing-svg)
+![github-contribution-grid-snake](https://github.com/ImperviousDeveloper/ImperviousDeveloper/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=rebeccapurple&width=720&lines=Hi%2C+I'm+Rajan.+I+am+currently+working+as+Full-Stack+Developer)](https://git.io/typing-svg)
 
 
 ![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
@@ -9,7 +13,6 @@
 
 <!-- ## Bringing Web solutions to life with creativity, technical excellence, and attention to detail, ensuring security, scalability, and maintainability. -->
 
-![github-contribution-grid-snake](https://github.com/ImperviousDeveloper/ImperviousDeveloper/blob/output/github-contribution-grid-snake.svg)
 
 ## **🚀 Developer | Problem Solver | Quantum Enthusiast**
 
@@ -99,7 +102,7 @@ An advanced machine learning model for predictive analysis using Python and Tens
 
 [//]: # (![GitHub Activity Graph]&#40;https://github-readme-activity-graph.vercel.app/graph?username=ImperviousDeveloper&theme=react-dark&#41;)
 
-## Languages and Tools
+## 🛠️ Languages and Tools
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
@@ -169,7 +172,13 @@ An advanced machine learning model for predictive analysis using Python and Tens
 [//]: # (### 🔝 Top Contributed Repo)
 [//]: # (![]&#40;https://github-contributor-stats.vercel.app/api?username=ImperviousDeveloper&limit=5&theme=flat&combine_all_yearly_contributions=true&#41;)
 
----
+## 🌟 Oh, Thanks!
+
+```javascript
+  if (isAwesome) {
+    starThisRepository();
+}
+```
 
 > **"The best way to predict the future is to invent it."** – Alan Kay
 
