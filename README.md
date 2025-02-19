@@ -4,8 +4,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=rebeccapurple&width=720&lines=Hi%2C+I'm+Rajan.+I+am+currently+working+as+Full-Stack+Developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5&color=6A5ACD&width=720&lines=Hi,+I'm+Rajan+Sharma.;I+am+currently+working+as+a+Full-Stack+Developer)](https://git.io/typing-svg)
 
 ![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 
