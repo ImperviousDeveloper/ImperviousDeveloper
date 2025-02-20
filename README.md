@@ -81,7 +81,7 @@ An advanced machine learning model for predictive analysis using Python and Tens
 [//]: # (Below code goes to td )
 [//]: # (<img src="https://streak-stats.demolab.com?user=ImperviousDeveloper&theme=radical" alt="GitHub Streak" />)
 
-![Github-Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImperviousDeveloper&theme=react)
+![Github-Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImperviousDeveloper&theme=solarized)
 
 <table>
   <tr>
@@ -106,7 +106,7 @@ An advanced machine learning model for predictive analysis using Python and Tens
 </tr>
 <tr>
 <td>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImperviousDeveloper&theme=react&utcOffset=8" alt="commits stats" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImperviousDeveloper&theme=solarized&utcOffset=8" alt="commits stats" />
 </td>
 </tr>
 </table>
