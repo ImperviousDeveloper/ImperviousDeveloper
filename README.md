@@ -81,6 +81,8 @@ An advanced machine learning model for predictive analysis using Python and Tens
 [//]: # (Below code goes to td )
 [//]: # (<img src="https://streak-stats.demolab.com?user=ImperviousDeveloper&theme=radical" alt="GitHub Streak" />)
 
+![Github-Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImperviousDeveloper&theme=react)
+
 <table>
   <tr>
     <td >
@@ -102,10 +104,22 @@ An advanced machine learning model for predictive analysis using Python and Tens
 <img src="https://github-contributor-stats.vercel.app/api?username=ImperviousDeveloper&limit=5&theme=react&combine_all_yearly_contributions=true&border_radius=10" alt="Top Contributed Repo" />
 </td>
 </tr>
+<tr>
+<td>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImperviousDeveloper&theme=react&utcOffset=8" alt="commits stats" />
+</td>
+</tr>
 </table>
 
 
 [//]: # (![GitHub Activity Graph]&#40;https://github-readme-activity-graph.vercel.app/graph?username=ImperviousDeveloper&theme=react-dark&#41;)
+
+[//]: # (![Top-Lang-Repo]&#40;http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ImperviousDeveloper&theme=react&#41;)
+
+[//]: # (![Top-Lang-Commit]&#40;http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImperviousDeveloper&theme=react&#41;)
+
+[//]: # (![Last-Year-Stats]&#40;http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImperviousDeveloper&theme=react&#41;)
+
 
 ## 🛠️ Languages and Tools
 
