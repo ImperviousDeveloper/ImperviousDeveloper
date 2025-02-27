@@ -58,6 +58,21 @@ From long & clunky to short & snappy – a next-gen URL shortener built on **Rea
 3️⃣ React + Tailwind CSS  
 4️⃣ Spring Boot backend
 
+### [Project 2: 🔗 NeuraGit App]()
+
+An intelligent AI-driven tool that analyzes **GitHub repositories**, generates detailed summaries for each file, and provides insightful explanations of code snippets on demand.
+
+🔗 [Live Demo](https://neura-git-eaan-pearl.vercel.app/)
+
+**Key Features:**
+
+1️⃣ GitHub Repository Parsing  
+2️⃣ Automated Code Summarization  
+3️⃣ AI-Powered Code Understanding  
+4️⃣ Code Search & Querying  
+5️⃣ Real-Time Collaboration
+
+
 <!-- ### [Project 1: Awesome Web App](https://github.com/ImperviousDeveloper/awesome-web-app)
 A scalable and responsive web application built with React and Node.js. -->
 
