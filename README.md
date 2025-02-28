@@ -47,7 +47,7 @@ I'm a **software engineer, problem-solver, and perpetual learner** who loves tur
 
 <!-- ## 🚀 Projects -->
 
-### [Project 1: 🔗 Web Probe App]()
+### [Project 1: 🔗 Web Probe App](https://web-probe.vercel.app/)
 
 A powerful tool to collect, process, and analyze web data. Turn unstructured content into actionable insights.
 
@@ -61,7 +61,7 @@ A powerful tool to collect, process, and analyze web data. Turn unstructured con
 4️⃣ Anti-Bot & Security Measures  
 5️⃣ User Experience & Automation
 
-### [Project 2: 🔗 NeuraGit App]()
+### [Project 2: 🔗 NeuraGit App](https://neura-git.vercel.app/)
 
 An intelligent AI-driven tool that analyzes **GitHub repositories**, generates detailed summaries for each file, and provides insightful explanations of code snippets on demand.
 
