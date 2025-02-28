@@ -65,7 +65,7 @@ From long & clunky to short & snappy – a next-gen URL shortener built on **Rea
 
 An intelligent AI-driven tool that analyzes **GitHub repositories**, generates detailed summaries for each file, and provides insightful explanations of code snippets on demand.
 
-🔗 [Live Demo](https://neura-git-eaan-pearl.vercel.app/)
+🔗 [Live Demo](https://neura-git.vercel.app/)
 
 **Key Features:**
 
