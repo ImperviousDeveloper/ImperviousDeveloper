@@ -90,6 +90,8 @@ An advanced machine learning model for predictive analysis using Python and Tens
 ![Visitor Count](https://komarev.com/ghpvc/?username=ImperviousDeveloper&color=brightgreen)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/ImperviousDeveloper/ImperviousDeveloper/actions/workflows/snake-eating-contributions.yml)
+[![WakaTime](https://wakatime.com/badge/user/c7c20bb1-8e36-467c-be89-0d074ae16240.svg?style=flat-square)](https://wakatime.com/@iAmRajan)
+
 
 [//]: # (![ImperviousDeveloper's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=ImperviousDeveloper&show_icons=true&theme=radical&#41;)
 
