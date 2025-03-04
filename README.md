@@ -132,7 +132,9 @@ An advanced machine learning model for predictive analysis using Python and Tens
   </tr>
 <tr>
   <td>
-<img src="https://leetcard.jacoblin.cool/ImperviousDeveloper?font=Dancing_Script&theme=dark&border_radius=10" alt="LeetCode Stats" />
+
+[//]: # (<img src="https://leetcard.jacoblin.cool/ImperviousDeveloper?font=Dancing_Script&theme=dark&border_radius=10" alt="LeetCode Stats" />)
+<img src="https://leetcard.jacoblin.cool/SharmaRajan?font=Dancing_Script&theme=dark&border_radius=10" alt="LeetCode Stats" />
 </td>
 <td>
 <h5>🔝 Top Contributed Repo</h5>
