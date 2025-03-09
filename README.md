@@ -91,6 +91,26 @@ From long & clunky to short & snappy – a next-gen URL shortener built on **Rea
 4️⃣ Spring Boot backend
 
 
+### [Project 4: 🔗 iSpill Ink App](https://ispillink-one.vercel.app/)
+
+<!-- Built a dynamic Medium clone with **Next.js, Prisma, and PostgreSQL,** featuring rich text editing, user authentication, and a seamless reading experience. -->
+
+<!-- Designed and implemented a scalable Medium-like blog with **Next.js, Prisma, PostgreSQL,** and server-side rendering for performance. -->
+
+A modern blogging app inspired by Medium, leveraging **Next.js, Prisma, and PostgreSQL** for seamless content creation and management.
+
+🔗 [Live Demo](https://ispillink-one.vercel.app/)
+
+**Key Features:**
+📝 Rich Content Creation
+📖 Seamless Reading Experience
+🗣️ Engagement & Interaction
+🔍 Advanced Search & Filtering
+📊 User Profiles & Dashboard
+📡 Performance & SEO Optimization
+
+
+
 <!-- ### [Project 1: Awesome Web App](https://github.com/ImperviousDeveloper/awesome-web-app)
 A scalable and responsive web application built with React and Node.js. -->
 
