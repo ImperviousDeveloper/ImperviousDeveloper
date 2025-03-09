@@ -101,7 +101,7 @@ A modern blogging app inspired by Medium, leveraging **Next.js, Prisma, and Post
 
 🔗 [Live Demo](https://ispillink-one.vercel.app/)
 
-**Key Features:**
+**Key Features:**  
 📝 Rich Content Creation  
 📖 Seamless Reading Experience  
 🗣️ Engagement & Interaction  
